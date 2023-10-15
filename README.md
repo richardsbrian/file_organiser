@@ -11,7 +11,7 @@ The File Renaming Tool is a simple graphical user interface (GUI) application bu
 ## Prerequisites
 
 - Python 3.x installed on your computer.
-- The `tkinter` library is included with standard Python installations, so no additional installation is required.
+
 
 ## Getting Started
 
