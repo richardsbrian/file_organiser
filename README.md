@@ -6,7 +6,6 @@ The File Renaming Tool is a user-friendly application that helps you quickly ren
 
 - Rename multiple files at once with sequential numbers.
 - User-friendly GUI for easy file renaming.
-- Confirmation dialog to prevent accidental file renaming.
 
 ## Prerequisites
 
@@ -28,21 +27,31 @@ The File Renaming Tool is a user-friendly application that helps you quickly ren
 
 1. The File Renaming Tool GUI will appear.
 
-2. Click the "Browse" button to select the folder containing the files you want to rename.
+
+![on_open](https://github.com/user-attachments/assets/13354d33-f59d-410e-a43b-27aa0a145147)
+
+
+2. Click the "Browse" button to select the folder containing the files you want renamed.
 
 3. Enter a new base name in the "New Name" field.
 
 4. Click the "Rename Files" button.
 
-5. A warning message will appear to confirm the renaming operation. Click "Yes" to proceed or "No" to cancel.
 
-6. The selected files will be renamed with sequential numbers, and the tool will display messages for each renaming operation.
+![file_selected](https://github.com/user-attachments/assets/48a03f1d-6c64-481b-a6d1-37c6afc5cbc5)
 
-7. Once the renaming is complete, a success message will indicate that the files were renamed successfully.
+
+5. The selected files will be renamed with sequential numbers.
+
+6. Once the renaming is complete, a success message will indicate that the files were renamed successfully.
+
+
+![done](https://github.com/user-attachments/assets/fce1283f-b321-4679-bc70-f8f5f887ae7e)
+
 
 ## Note
 
-- Be cautious when using this tool, as file renaming cannot be undone, and it will overwrite any files with the same names in the folder.
+- Please be careful when using this tool, since file renaming cannot be undone.
 
 ## License
 
