@@ -1,6 +1,6 @@
 # File Renaming Tool
 
-The File Renaming Tool is a simple graphical user interface (GUI) application built using the Python `tkinter` library. This tool allows you to efficiently rename files in a selected folder with sequential numbering.
+The File Renaming Tool is a simple application built using the Python `tkinter` library. This tool allows you to efficiently rename files in a selected folder with sequential numbering.
 
 ## Features
 
